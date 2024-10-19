@@ -27,7 +27,7 @@
 
 ## AWS Certifications
  <div style="display: inline_block"><br>
-    <img align="center" alt="CP"  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+    <img align="center" alt="CP" height="30" width="40" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </div>
   
 </div>
