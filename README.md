@@ -24,4 +24,7 @@
   ![Snake animation](https://github.com/wellingtonolive/wellingtonolive/blob/output/github-contribution-grid-snake.svg)
  
   </div>
+
+## AWS Certifications
+  
 </div>
