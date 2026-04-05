@@ -101,4 +101,4 @@ Building a strong career path in **Backend Development**, **Cloud Engineering** 
 
 - GitHub: [github.com/wellingtonolive](https://github.com/wellingtonolive)
 - LinkedIn: **[Welington de Oliveira](https://www.linkedin.com/in/wellington-oliveira-9bbb64174/)**
-- Email: **add your email here**
+- Email: **wellingtoncarvalho11@gmail.com**
